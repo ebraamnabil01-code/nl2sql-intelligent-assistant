@@ -168,7 +168,6 @@ nl2sql-intelligent-assistant
 ├── deploy.py
 │
 ├── requirements.txt
-├── .env.example
 └── README.md
 ```
 
